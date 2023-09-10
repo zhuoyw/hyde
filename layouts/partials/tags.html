@@ -1,0 +1,6 @@
+<p class="tags">
+    Tags:
+    {{- range $index, $element := . -}}
+        <a href="{{ .RelPermalink }}">&nbsp;#{{ .LinkTitle }}</a>
+    {{- end -}}
+</p>

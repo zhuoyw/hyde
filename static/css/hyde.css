@@ -248,3 +248,27 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.math .sidebar {
+  background-color: #0f4c3a;
+}
+.math .content a,
+.l .related-posts li a:hover {
+  color: #0f4c3a;
+}
+
+.life .sidebar {
+  background-color: #66327c;
+}
+.life .content a,
+.l .related-posts li a:hover {
+  color: #66327c;
+}
+
+.work .sidebar {
+  background-color: #ac4142;
+}
+.work .content a,
+.l .related-posts li a:hover {
+  color: #ac4142;
+}
